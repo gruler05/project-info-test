@@ -1,0 +1,25 @@
+{
+  "posts": [
+    { "id": 1, "title": "Baka", "author": "Gaurav" },
+    { "id": 2, "title": "Lava", "author": "Gaurav" },
+    { "id": 3, "title": "Bhava", "author": "Gaurav" },
+    { "id": 4, "title": "test", "author": "Gaurav" },
+    { "id": 5, "title": "something", "author": "Gaurav" },
+    { "id": 6, "title": "hello", "author": "Gaurav" }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": [
+    { "name": "Gaurav" },
+    { "name": "Hope" },
+    { "name": "Pornima" },
+    { "name": "Bambya" },
+    { "name": "Chetan" },
+    { "name": "Rutuja" },
+    { "name": "Berma" },
+    { "name": "Isha" },
+    { "name": "Jonas" },
+    { "name": "Ajong" },
+    { "name": "Agoy" },
+    { "name": "Jenny" }
+  ]
+}
