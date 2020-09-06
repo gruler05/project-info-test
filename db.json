@@ -1,25 +1,126 @@
 {
-  "posts": [
-    { "id": 1, "title": "Baka", "author": "Gaurav" },
-    { "id": 2, "title": "Lava", "author": "Gaurav" },
-    { "id": 3, "title": "Bhava", "author": "Gaurav" },
-    { "id": 4, "title": "test", "author": "Gaurav" },
-    { "id": 5, "title": "something", "author": "Gaurav" },
-    { "id": 6, "title": "hello", "author": "Gaurav" }
-  ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "profile": [
-    { "name": "Gaurav" },
-    { "name": "Hope" },
-    { "name": "Pornima" },
-    { "name": "Bambya" },
-    { "name": "Chetan" },
-    { "name": "Rutuja" },
-    { "name": "Berma" },
-    { "name": "Isha" },
-    { "name": "Jonas" },
-    { "name": "Ajong" },
-    { "name": "Agoy" },
-    { "name": "Jenny" }
+    { "id": 1, "name": "Gaurav" },
+    { "id": 2, "name": "Hope" },
+    { "id": 3, "name": "Pornima" },
+    { "id": 4, "name": "Bambya" },
+    { "id": 5, "name": "Chetan" },
+    { "id": 6, "name": "Rutuja" },
+    { "id": 7, "name": "Berma" },
+    { "id": 8, "name": "Isha" },
+    { "id": 9, "name": "Jonas" },
+    { "id": 10, "name": "Ajong" },
+    { "id": 11, "name": "Agoy" },
+    { "id": 12, "name": "Jenny" }
+  ],
+  "profileInfo": [
+    {
+      "id": 1,
+      "fullName": "Gaurav Bansode",
+      "email": "bansodegaurav05@gmail.com",
+      "hobbies": "dad jokes",
+      "image": "https://api.adorable.io/avatars/259/gaurav.png",
+      "country": "India",
+      "profileId": 1
+    },
+    {
+      "id": 2,
+      "fullName": "Hope Martinez Magat Bansode",
+      "email": "hopeJez@gmail.com",
+      "hobbies": "dad jokes",
+      "image": "https://api.adorable.io/avatars/259/hope.png",
+      "country": "Philippines",
+      "profileId": 2
+    },
+    {
+      "id": 3,
+      "fullName": "Pornima Bansode",
+      "email": "pornima@gmail.com",
+      "hobbies": "lame jokes",
+      "image": "https://api.adorable.io/avatars/259/pornima.png",
+      "country": "USA",
+      "profileId": 3
+    },
+    {
+      "id": 4,
+      "fullName": "Ashish Ambavane",
+      "email": "ashish@gmail.com",
+      "hobbies": "lame jokes",
+      "image": "https://api.adorable.io/avatars/259/ashish.png",
+      "country": "USA",
+      "profileId": 4
+    },
+    {
+      "id": 5,
+      "fullName": "Chetan Pachpande",
+      "email": "chetan@gmail.com",
+      "hobbies": "some jokes",
+      "image": "https://api.adorable.io/avatars/259/chetan.png",
+      "country": "USA",
+      "profileId": 5
+    },
+    {
+      "id": 6,
+      "fullName": "Rutuja Inamke Pachpande",
+      "email": "rutuja@gmail.com",
+      "hobbies": "some jokes",
+      "image": "https://api.adorable.io/avatars/259/rutuja.png",
+      "country": "USA",
+      "profileId": 6
+    },
+    {
+      "id": 7,
+      "fullName": "Amrit Verma",
+      "email": "berma@gmail.com",
+      "hobbies": "dad jokes",
+      "image": "https://api.adorable.io/avatars/259/berma.png",
+      "country": "USA",
+      "profileId": 7
+    },
+    {
+      "id": 8,
+      "fullName": "Isha Amrit Verma",
+      "email": "isha@gmail.com",
+      "hobbies": "some jokes",
+      "image": "https://api.adorable.io/avatars/259/isha.png",
+      "country": "USA",
+      "profileId": 8
+    },
+    {
+      "id": 9,
+      "fullName": "Jonas Magat",
+      "email": "jonas@gmail.com",
+      "hobbies": "some jokes",
+      "image": "https://api.adorable.io/avatars/259/jonas.png",
+      "country": "Philippines",
+      "profileId": 8
+    },
+    {
+      "id": 10,
+      "fullName": "Ajong Magat",
+      "email": "ajong@gmail.com",
+      "hobbies": "dad jokes",
+      "image": "https://api.adorable.io/avatars/259/ajong.png",
+      "country": "Philippines",
+      "profileId": 10
+    },
+    {
+      "id": 11,
+      "fullName": "Agoy Magat",
+      "email": "agoy@gmail.com",
+      "hobbies": "some jokes",
+      "image": "https://api.adorable.io/avatars/259/agoy.png",
+      "country": "Philippines",
+      "profileId": 11
+    },
+    {
+      "id": 12,
+      "fullName": "Jenny Magat",
+      "email": "jenny@gmail.com",
+      "hobbies": "some jokes",
+      "image": "https://api.adorable.io/avatars/259/jenny.png",
+      "country": "Philippines",
+      "profileId": 12
+    }
   ]
 }
